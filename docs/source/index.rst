@@ -54,3 +54,4 @@ Contents
    usage
    api
    named
+   sample
