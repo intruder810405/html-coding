@@ -56,3 +56,4 @@ Contents
    named
    sample
    addmap
+   live
