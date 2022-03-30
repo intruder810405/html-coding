@@ -55,3 +55,4 @@ Contents
    api
    named
    sample
+   addmap
